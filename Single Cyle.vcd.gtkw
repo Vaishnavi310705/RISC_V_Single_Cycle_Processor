@@ -1,0 +1,53 @@
+[*]
+[*] GTKWave Analyzer v3.3.100 (w)1999-2019 BSI
+[*] Wed Jun 10 17:20:47 2026
+[*]
+[dumpfile] "C:\verilog codes\RISC_V_Single_Cycle\Single Cyle.vcd"
+[dumpfile_mtime] "Wed Jun 10 17:16:55 2026"
+[dumpfile_size] 4061
+[savefile] "C:\verilog codes\RISC_V_Single_Cycle\Single Cyle.vcd.gtkw"
+[timestart] 0
+[size] 1536 793
+[pos] -165 -165
+*-6.927180 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1 -1
+[treeopen] Single_Cycle_Top_Tb.
+[treeopen] Single_Cycle_Top_Tb.Single_Cycle_Top.
+[treeopen] Single_Cycle_Top_Tb.Single_Cycle_Top.COntrol_Unit.
+[sst_width] 211
+[signals_width] 150
+[sst_expanded] 1
+[sst_vpaned_height] 222
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top.Instr_mem.RD[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Instr_mem.A[31:0]
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top.Instr_mem.rst
+@200
+-
+-
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top.COntrol_Unit.ALUControl[2:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.COntrol_Unit.RegWrite
+Single_Cycle_Top_Tb.Single_Cycle_Top.COntrol_Unit.funct3[2:0]
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top.COntrol_Unit.op[6:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.PC_Adder.a[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.PC_Adder.b[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.PC_Adder.c[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.P_c.PC[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.P_c.PC_Next[31:0]
+@28
+Single_Cycle_Top_Tb.Single_Cycle_Top.P_c.clk
+Single_Cycle_Top_Tb.Single_Cycle_Top.P_c.rst
+@22
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.RD1[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.A1[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.A2[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.A3[4:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.RD2[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Register_File.WD3[31:0]
+Single_Cycle_Top_Tb.Single_Cycle_Top.Sign_Extend.Imm_Ext[31:0]
+@23
+Single_Cycle_Top_Tb.Single_Cycle_Top.Sign_Extend.In[31:0]
+[pattern_trace] 1
+[pattern_trace] 0
